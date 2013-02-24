@@ -1,1 +1,3 @@
-This is the first thing and a couple more words
+## A completely worthless repo
+
+This is a repo with nothing in it.

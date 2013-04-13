@@ -1,4 +1,4 @@
-## A completely worthless repo
+## Git test
 
 This is a repo testing out some git features.  
 
